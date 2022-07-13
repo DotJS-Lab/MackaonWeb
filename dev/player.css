@@ -3,7 +3,7 @@
 	overflow: hidden;
 	bottom: 62px;
 	left: -250px;
-	transition: transform .1s ease
+	transition: transform .4s ease
 }
 #QPlayer .left {
 	float: left;
@@ -257,7 +257,7 @@ to {
 	overflow: hidden
 }
 #player .ctrl .icon,#playlist li,#playlist li: hover: before,#playlist li: hover: after {
-	transition: .2s;
+	transition: .0.5s;
 	-webkit-font-smoothing: antialiased
 }
 .qplayer-notification {
