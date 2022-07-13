@@ -3,7 +3,7 @@
 	overflow: hidden;
 	bottom: 62px;
 	left: -250px;
-	transition: transform .5s ease
+	transition: transform .1s ease
 }
 #QPlayer .left {
 	float: left;
